@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+#header1-1 .mbr-section-lead {
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+#header1-1 .mbr-section-title {
+  font-family: 'Lato', sans-serif;
+}
+#msg-box3-0 .mbr-section-title,
+#msg-box3-0 p {
+  color: #000;
+}
+#msg-box3-0 .mbr-section-title {
+  font-size: 32px;
+}
+#msg-box6-0 .mbr-section-title,
+#msg-box6-0 .lead p {
+  color: #fff;
+}
+#msg-box6-0 H3 {
+  font-size: 36px;
+}
+#msg-box6-1 .mbr-section-title,
+#msg-box6-1 .lead p {
+  color: #fff;
+}
+#msg-box6-1 H3 {
+  font-size: 36px;
+}
+#features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #c1c1c1;
+}
+#features1-0 H5 {
+  color: #232323;
+}
+#features1-0 P {
+  font-size: 14px;
+}
+#features1-0 H4 {
+  font-size: 18px;
+}
+#social-buttons1-0 .mbr-section-title {
+  font-size: 36px;
+}
+#social-buttons1-0 .mbr-section-title SPAN {
+  color: #000000;
+  font-size: 32px;
+}
+#content5-0 .mbr-section-title,
+#content5-0 p {
+  color: #fff;
+}
+#testimonials2-0 .card-footer > small B {
+  color: #000000;
+}
+#testimonials2-0 .card-footer > small {
+  color: #000000;
+}
+#testimonials2-1 .card-footer > small {
+  color: #000000;
+}
+#testimonials2-1 .card-footer > div SPAN {
+  font-family: 'Lora', serif;
+  font-size: 14px;
+}
+#form1-0 .form-control-label {
+  color: #232323;
+}

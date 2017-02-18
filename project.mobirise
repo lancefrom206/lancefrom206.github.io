@@ -1,0 +1,999 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.5.2",
+    "versionPublish": "3.5.2",
+    "name": "lancefrom206.com",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3"
+    },
+    "scrollAnimation": "true",
+    "publishType": "local",
+    "publishPath": "file:///Users/lanceenger/Desktop/lancefrom206:website",
+    "favicon": "@PROJECT_PATH@/assets/images/img-0824-128x128-16.jpg"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-0730-2000x1500-43.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Lance Enger<br>",
+          "text": "Creating Content, Delivering Results",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RESUME CLICK HERE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<span style=\"font-weight: normal;\">\"\u0016Of all of our inventions for mass communication, pictures still speak the most universally understood language.\"&nbsp;</span><br><br><span style=\"font-weight: normal;\">-Walt Disney</span><div><br></div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-7903-2000x1500-39.jpg",
+            "bgColor": "#d64637",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-5171-1400x1050-80.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://youtu.be/U_FaUuebC2Y",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Experienced Journalist",
+          "text": "From editorial leadership positions in local news to network and syndicated news magazine producing, &nbsp;I have always taken pride in my ability to prioritze duties and keep calm under pressure. &nbsp;The competition never had a breaking news story we didn't know about.. &nbsp;I always worked to verify information as quick as possible and sent social media notifications as fast as possible. &nbsp;I also developed original content and published story updates on the stations website and digital platforms.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/ZRHPrXDufwk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Accomplished Publicist",
+          "text": "Understanding &nbsp;my clients goals, creativily pitching ideas while &nbsp;advising them with realistic expecations was how I approached &nbsp;all projects and it generally meant a happy client when I would succeed those. &nbsp; I &nbsp;assisted agencies with my broadcasti expertise &nbsp; to maximize results &nbsp;on some large celebrity driven campaigns for beauty, entertainment and lifestyle clients.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/q13-2000x2000-54-2000x2000-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/q13-2000x2000-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5171-1400x1050-80-2000x1500-42-2000x1500-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5171-1400x1050-80-2000x1500-42.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0909-2000x1686-86-2000x1686-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0909-2000x1686-86.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-11-59-57-2000x1131-77-2000x1131-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-11-59-57-2000x1131-77.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-12-50-11-2000x1600-82-2000x1600-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-12-50-11-2000x1600-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cnn-2000x2000-79-2000x2000-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cnn-2000x2000-79.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-13-05-51-2000x1474-23-2000x1474-25.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-13-05-51-2000x1474-23.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-12-05-19-2000x1345-90-2000x1345-32.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-12-05-19-2000x1345-90.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#3d8eb9",
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#c1c1c1"
+            },
+            "H5": {
+              "color": "#232323"
+            },
+            "P": {
+              "font-size": "14px"
+            },
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "columnsColor": "#c1c1c1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-13-45-16-600x574-51.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "www.kiro7.com",
+              "alt": "",
+              "title": "Sr. Assignment Editor",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Sr. Assignment Editor",
+          "subtitle1": "",
+          "caption1": "Mar 2011-Oct. 2015 <br><br>● Primary editorial lead for noon and evening newscasts\n● Monitor sources and competition for possible stories\n● Manage crews in breaking news situations\n● Update social media platforms and write for kirotv.com\n● Maintain community relationships with key contacts for information and stories",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-13-43-46-600x550-12.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "www.stellarhead.com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Media Relations Mgr",
+          "subtitle2": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Apr. 2004-Mar. 2011</span><br>",
+          "caption2": "● Develop innovative brand strategy and execute over multi-platforms\n● Counsel clients on appropriate digital and social media platforms for campaign\n● Oversee media relations for both online and broadcast outreach\n● Provide benchmarking and social media report cards throughout the campaign\n● Develop and execute PR and Social Media editorial calendars for brand initiatives\n● Draft, edit and disseminate press releases\n● Plan and execute community building strategies while guiding clients with best practice\nconsultation",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-12-01-00-600x472-16.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "www.insideedition.com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Night Los Angeles<br>Assignment Producer",
+          "subtitle3": "Nov. 2006-Nov. 2007",
+          "caption3": "● Responsible for assigning and hiring crews to cover stories\n● Booking shoots and interviews as assigned by the Executive Producer\n● Research and coordinate stories\n● Monitor sources and competition for possible segments\n● Relay information to Bureau Chief, Executive Producers and Production Manager",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-13-23-28-600x490-8.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Regional Feed Producer",
+          "subtitle4": "Nov. &nbsp;2003-Jul. 2005",
+          "caption4": "● Coordinated all Pacific and Mountain region news for NBC affiliates\n● Produced daily regional feed\n● Script writing\n● Assisted all NBC affiliates with video and story information\n11/03 – 7/05\n● Worked as a liaison between local NBC affiliates and NBC Network News\n",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eb6b56",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE TO DOWNLOAD RESUME</a>",
+          "text": "",
+          "title": "FULL RESUME&nbsp;"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000",
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "social-buttons1-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">\"In America the President reigns for four years, and Journalism governs forever and ever.\"</span><br><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">-Oscar Wilde</span><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9054-2000x979-60.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Online Stories &nbsp;&amp;&nbsp;Achievements",
+          "caption": ""
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-0",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/545d2a3972b64-1400x1866-41.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Homicide By Abuse",
+          "text": "When a toddler was killed by &nbsp;an abusive couple &nbsp;who offered to take care of him I published &nbsp;multiple stories &nbsp;when we couldn't send a crew to Vader, WA for court hearings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.kiro7.com/news/vader-couple-plead-guilty-manslaughter-child-death/43425220\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-14-52-06-1400x1007-21.png",
+              "link": "http://www.kiro7.com/news/port-orchard-man-sentenced-45-days-abusing-elderly/246598701",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Port Orchard Man Jailed for Kicking Arthretic Dog&nbsp;",
+          "text": "&nbsp;A Port Orchard man has pleaded guilty to first-degree animal cruelty after he allegedly punched an arthritic 13-year-old dog so hard that the animal's heart was displaced.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.kiro7.com/news/port-orchard-man-sentenced-45-days-abusing-elderly/246598701\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/emmy-1400x1400-78.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Emmy Award Winning Coverage",
+          "text": "Kiro-7's breaking news coverage of the shooting at Marysville Pillchuck High school shooting on \u0016October 24, 2014. &nbsp;Scanner challenged at the time because of the distance, I was still able to pick up enough to get crews started &nbsp;that direction. and stratgic assignments helped Kiro-7 lead with &nbsp;confirmed information first. &nbsp;.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > small B": {
+              "color": "#000000"
+            },
+            ".card-footer > small": {
+              "color": "#000000"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“I've worked with many Assignment Editors over the years. &nbsp;You were always professional, helpful,&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">thorough, courteous and hard-working...along with all that you have good prespective . &nbsp;I am honored to have worked with you”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-22-30-37-149x160-73.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Richard Thompson",
+              "authorBio": "<b>former Kiro 7 Reporter</b>"
+            },
+            {
+              "text": "\"I'll miss how you were always eager to offer help from the desk, while I was out in the field. I didn't even have to ASK. You offered. Thank you Lance Enger!<span style=\"font-size: 1.125rem; line-height: 2;\">”</span>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-22-42-40-157x160-96.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Amy Clancy",
+              "authorBio": "<b>Kiro 7 Reporter</b>"
+            },
+            {
+              "text": "<p>“For the past four years, Lance Enger has sat on the assignment desk, guiding KIRO to many breaking news wins. Not only is he an excellent scanner-listener, he also helped us install and implement our scanner system. And, no one knows about shootings in Belltown before Lance!”</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-22-53-27-151x160-75.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Jake Milstein",
+              "authorBio": "<b>Kiro 7 News Director</b>"
+            }
+          ],
+          "_anchor": "testimonials2-0",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#f7da64",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "A Few Words From Co-workers",
+          "subtitle": "I've had the pleasure and privledge of working with some of the most respected journalists in the country"
+        },
+        {
+          "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            },
+            ".card-footer > div SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“I‘ve known Lance in both a professional and a personal capacity for over 10 years and his passion for the local news is unparalleled. His understanding of the city, it’s culture and people lends a depth to his abilities in identifying what matters most to the community. Lance’s knowledge of media and understanding of communication platforms in general guarantees he will be an asset to any organization.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-23-13-05-133x160-46.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Helen Baric",
+              "authorBio": "Director of Communications, Microsoft"
+            },
+            {
+              "text": "“Why is it easy to endorse Lance Enger? Because he understands that the platforms used to communicate effective messaging is changing every day. With a critical eye he commits to finding the best opportunities and solutions for each and every client, knowing that no two have the same needs. Lance creates integrated plans to help his clients reach and exceed their targeted goals. He is diligent in taking them through each project, explaining the pros and cons of certain approaches as well as pitfalls that may lie ahead and solutions to any issues that may arise. Unlike a lot of people who came to this industry in the last few years, Lance is equipped with the methods, understanding and history of traditional PR. Make no mistake about it; knowing how we got from there to here is a strength. In all the years I have worked with him, Lance has never lost his sense of integrity and that is honorable. You never have to wonder about the legitimacy of your results or the process that was executed on your behalf. It is for all those reasons I easily recommend Lance Enger as a Social/Media Relations Consultant.”<p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-23-17-52-135x160-53.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Robin Applebaum<br><span style=\"font-weight: normal;\"><i>Strategist &amp; Speaker for Health Focused Organizations</i></span>",
+              "authorBio": ""
+            },
+            {
+              "text": "\"Lance is a practiced and practical decision maker with an uncanny ability to give swift, accurate, and clear direction to multiple teams at a moment&amp;#39;s notice. If you are seeking a communications expert who has a deep understanding of media and how it works, look no further. Lance Enger is a brilliant professional and you should hire him. \"",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/screenshot-at-feb-17-23-33-55-152x160-32.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Nicole Francois",
+              "authorBio": "Strategist &amp; Speaker for Health Focused Organizations"
+            }
+          ],
+          "_anchor": "testimonials2-1",
+          "_params": {
+            "count": 3,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#f7da64",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "",
+          "subtitle": ""
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-0",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "",
+          "form": {
+            "action": "engerboy@msn.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
+        }
+      ]
+    },
+    "Resume.html": {
+      "settings": {
+        "title": "Resume"
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lanceenger-rs-copy1-1400x1811-36.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-1",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lanceenger-rs-copy2-1400x1811-99.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": ""
+        }
+      ]
+    }
+  }
+}
